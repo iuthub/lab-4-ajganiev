@@ -1,7 +1,18 @@
+.button {
+	font-size: 15px;
+	padding: 5px;
+	color: white;
+	background-color: #006600;
+	margin: 20px;
+	border: 2px blue solid;
+}
+
 a {
 	text-decoration: none;
 	color: blue;
 }
+
+
 
 li:hover {
 	background-color: #FFEEBB;
@@ -36,7 +47,7 @@ li {
 #listarea {
 	background-color: #DDEEFF;
 	border: 5px double blue;
-	padding: 0;
+	padding-top: 15px;
 	width: 50%;
 	min-width: 500px;
 }
